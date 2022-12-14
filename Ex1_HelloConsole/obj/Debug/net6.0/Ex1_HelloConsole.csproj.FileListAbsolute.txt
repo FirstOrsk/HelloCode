@@ -1,0 +1,15 @@
+D:\Shlak\Git\GB\IntroProgramming\L1\Ex1_HelloConsole\bin\Debug\net6.0\Ex1_HelloConsole.exe
+D:\Shlak\Git\GB\IntroProgramming\L1\Ex1_HelloConsole\bin\Debug\net6.0\Ex1_HelloConsole.deps.json
+D:\Shlak\Git\GB\IntroProgramming\L1\Ex1_HelloConsole\bin\Debug\net6.0\Ex1_HelloConsole.runtimeconfig.json
+D:\Shlak\Git\GB\IntroProgramming\L1\Ex1_HelloConsole\bin\Debug\net6.0\Ex1_HelloConsole.dll
+D:\Shlak\Git\GB\IntroProgramming\L1\Ex1_HelloConsole\bin\Debug\net6.0\Ex1_HelloConsole.pdb
+D:\Shlak\Git\GB\IntroProgramming\L1\Ex1_HelloConsole\obj\Debug\net6.0\Ex1_HelloConsole.csproj.AssemblyReference.cache
+D:\Shlak\Git\GB\IntroProgramming\L1\Ex1_HelloConsole\obj\Debug\net6.0\Ex1_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shlak\Git\GB\IntroProgramming\L1\Ex1_HelloConsole\obj\Debug\net6.0\Ex1_HelloConsole.AssemblyInfoInputs.cache
+D:\Shlak\Git\GB\IntroProgramming\L1\Ex1_HelloConsole\obj\Debug\net6.0\Ex1_HelloConsole.AssemblyInfo.cs
+D:\Shlak\Git\GB\IntroProgramming\L1\Ex1_HelloConsole\obj\Debug\net6.0\Ex1_HelloConsole.csproj.CoreCompileInputs.cache
+D:\Shlak\Git\GB\IntroProgramming\L1\Ex1_HelloConsole\obj\Debug\net6.0\Ex1_HelloConsole.dll
+D:\Shlak\Git\GB\IntroProgramming\L1\Ex1_HelloConsole\obj\Debug\net6.0\refint\Ex1_HelloConsole.dll
+D:\Shlak\Git\GB\IntroProgramming\L1\Ex1_HelloConsole\obj\Debug\net6.0\Ex1_HelloConsole.pdb
+D:\Shlak\Git\GB\IntroProgramming\L1\Ex1_HelloConsole\obj\Debug\net6.0\Ex1_HelloConsole.genruntimeconfig.cache
+D:\Shlak\Git\GB\IntroProgramming\L1\Ex1_HelloConsole\obj\Debug\net6.0\ref\Ex1_HelloConsole.dll
