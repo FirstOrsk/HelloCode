@@ -1,0 +1,15 @@
+D:\Shlak\Git\GB\IntroProgramming\L1\Ex3_Sum\bin\Debug\net6.0\Ex3_Sum.exe
+D:\Shlak\Git\GB\IntroProgramming\L1\Ex3_Sum\bin\Debug\net6.0\Ex3_Sum.deps.json
+D:\Shlak\Git\GB\IntroProgramming\L1\Ex3_Sum\bin\Debug\net6.0\Ex3_Sum.runtimeconfig.json
+D:\Shlak\Git\GB\IntroProgramming\L1\Ex3_Sum\bin\Debug\net6.0\Ex3_Sum.dll
+D:\Shlak\Git\GB\IntroProgramming\L1\Ex3_Sum\bin\Debug\net6.0\Ex3_Sum.pdb
+D:\Shlak\Git\GB\IntroProgramming\L1\Ex3_Sum\obj\Debug\net6.0\Ex3_Sum.csproj.AssemblyReference.cache
+D:\Shlak\Git\GB\IntroProgramming\L1\Ex3_Sum\obj\Debug\net6.0\Ex3_Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shlak\Git\GB\IntroProgramming\L1\Ex3_Sum\obj\Debug\net6.0\Ex3_Sum.AssemblyInfoInputs.cache
+D:\Shlak\Git\GB\IntroProgramming\L1\Ex3_Sum\obj\Debug\net6.0\Ex3_Sum.AssemblyInfo.cs
+D:\Shlak\Git\GB\IntroProgramming\L1\Ex3_Sum\obj\Debug\net6.0\Ex3_Sum.csproj.CoreCompileInputs.cache
+D:\Shlak\Git\GB\IntroProgramming\L1\Ex3_Sum\obj\Debug\net6.0\Ex3_Sum.dll
+D:\Shlak\Git\GB\IntroProgramming\L1\Ex3_Sum\obj\Debug\net6.0\refint\Ex3_Sum.dll
+D:\Shlak\Git\GB\IntroProgramming\L1\Ex3_Sum\obj\Debug\net6.0\Ex3_Sum.pdb
+D:\Shlak\Git\GB\IntroProgramming\L1\Ex3_Sum\obj\Debug\net6.0\Ex3_Sum.genruntimeconfig.cache
+D:\Shlak\Git\GB\IntroProgramming\L1\Ex3_Sum\obj\Debug\net6.0\ref\Ex3_Sum.dll
